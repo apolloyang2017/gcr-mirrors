@@ -1,0 +1,2 @@
+From k8s.gcr.io/redis:v1
+MAINTAINER apollo <123838100@qq.com>
